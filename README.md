@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/FlyingBBQ/FlyingBBQ/master/bg_bbq_sun_flat.png)
+![](https://raw.githubusercontent.com/FlyingBBQ/FlyingBBQ/master/bg_bbq_sun_flat_cropped.png)
 ### What's up?
 
 <!--
