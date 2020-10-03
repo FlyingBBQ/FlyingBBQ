@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/FlyingBBQ/FlyingBBQ/master/bg_bbq_sun_flat_cropped.png)
-### What's up?
+### Up in the sky
 
 <!--
 **FlyingBBQ/FlyingBBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
